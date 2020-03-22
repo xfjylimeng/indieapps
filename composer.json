@@ -1,0 +1,21 @@
+{
+    "name": "xfjylimeng/indieapps",
+    "description": "独立应用权限",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "limeng",
+            "email": "694253034@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xfjylimeng\\indieapps\\": "src/Xfjylimeng/Indieapps"
+        }
+    }
+}
