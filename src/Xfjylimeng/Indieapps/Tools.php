@@ -18,4 +18,8 @@ class Tools
         return 'third';
     }
 
+    public static function four(){
+        return 'third';
+    }
+
 }
