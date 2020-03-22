@@ -10,4 +10,8 @@ class Tools
         echo 'Hello World';
     }
 
+    public static  function dotest(){
+        return 'dotest';
+    }
+
 }
