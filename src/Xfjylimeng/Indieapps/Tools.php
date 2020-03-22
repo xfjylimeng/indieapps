@@ -14,4 +14,8 @@ class Tools
         return 'dotest';
     }
 
+    public static function third(){
+        return 'third';
+    }
+
 }
